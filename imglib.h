@@ -3,21 +3,6 @@
 *
 * Description:
 *     A library to handle various image-related functions and operations.
-*
-* Author:
-*     Renato Mancuso <rmancuso@bu.edu>
-*
-* Affiliation:
-*     Boston University
-*
-* Creation Date:
-*     October 23, 2023
-*
-* Notes:
-*     Ensure to link against the necessary dependencies when compiling and
-*     using this library. Modifications or improvements are welcome. Please
-*     refer to the accompanying documentation for detailed usage instructions.
-*
 *******************************************************************************/
 
 #ifndef __IMGLIB_H__

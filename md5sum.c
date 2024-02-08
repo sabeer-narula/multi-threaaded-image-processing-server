@@ -7,21 +7,6 @@
 *     md5sum function without a main function. The original comment is
 *     kept below to provide appropriate credit to the original
 *     creator.
-*
-* Author:
-*     Renato Mancuso <rmancuso@bu.edu>
-*
-* Affiliation:
-*     Boston University
-*
-* Creation Date:
-*     October 30, 2023
-*
-* Notes:
-*     Ensure to link against the necessary dependencies when compiling and
-*     using this library. Modifications or improvements are welcome. Please
-*     refer to the accompanying documentation for detailed usage instructions.
-*
 *******************************************************************************/
 
 /*  * Comment block in original code. See https://www.netlib.org/crc/md5sum.c *

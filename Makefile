@@ -17,20 +17,6 @@
 #     make <target_name>
 #     NOTE: all the binaries will be created in the build/ subfolder
 #
-# Author:
-#     Renato Mancuso
-#
-# Affiliation:
-#     Boston University
-#
-# Creation Date:
-#     October 31, 2023
-#
-# Notes:
-#     Ensure you have the necessary dependencies and permissions before
-#     compiling. Modify the Makefile as necessary if directory structures
-#     change or if additional modules are added in the future.
-#
 ###############################################################################
 
 

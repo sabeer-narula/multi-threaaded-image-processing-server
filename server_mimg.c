@@ -17,22 +17,6 @@
 *     queue_size  - The maximum number of queued requests.
 *     workers     - The number of parallel threads to process requests.
 *     policy      - The queue policy to use for request dispatching.
-*
-* Author:
-*     Renato Mancuso
-*
-* Affiliation:
-*     Boston University
-*
-* Creation Date:
-*     October 31, 2023
-*
-* Notes:
-*     Ensure to have proper permissions and available port before running the
-*     server. The server relies on a FIFO mechanism to handle requests, thus
-*     guaranteeing the order of processing. If the queue is full at the time a
-*     new request is received, the request is rejected with a negative ack.
-*
 *******************************************************************************/
 
 #define _GNU_SOURCE
